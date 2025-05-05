@@ -1,0 +1,2 @@
+# ignore pushing virtual environment
+.genai-venv/
